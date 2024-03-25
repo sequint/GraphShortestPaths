@@ -1,4 +1,4 @@
-#Graph Shortest Paths
+# Graph Shortest Paths
 Course: CIS 322 (Data Structures & Fundamental Algorithms)
 
 - Implements two wieghted shortest path algorithms in Java using two differnt graphs implementations.
